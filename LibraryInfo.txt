@@ -1,0 +1,8 @@
+ID: 24-57387-2
+Name: Inteesar Ahmed
+Department: CSE
+
+Books:
+Cse 01
+Bba 202
+Law 009
